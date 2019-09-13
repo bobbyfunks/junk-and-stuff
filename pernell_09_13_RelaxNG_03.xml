@@ -1,0 +1,47 @@
+
+<novel title="theHobbit" subtitle="OrThere&amp;BackAgain" Author="Tolkien">
+    <chapter n="5">
+        <ChapterTitle>Riddles in the Dark</ChapterTitle>
+        <p n="1">When <character forname="bilbo" surname="baggins"><race hobbit="shire"
+                >Bilbo</race></character> opened his eyes, he wondered if he had; for it was just as
+            dark as with them shut. No one was anywhere near him. Just imagine his fright! He could
+            hear nothing, see nothing, and he could feel nothing <location cave="MistyMts">except
+                the stone of the floor.</location></p>
+        <p n="2">Very slowly he got up and groped about on all fours, till he touched the wall of
+            the <location cave="MistyMts">tunnel</location>; but neither up nor down it could he
+            find anything: nothing at all, no sign of <race orc="goblin" from="MistyMts"
+                >goblins</race>, no sign of <race dwarf="dwarves" from="Erebor">dwarves</race>. His
+            head was swimming, and he was far from certain even of the direction they had been going
+            in when he had his fall. He guessed as well as he could, and crawled along for a good
+            way, till suddenly his hand met what felt like <MagicItem type="ring" createdBy="sauron"
+                >a tiny ring of cold metal</MagicItem> lying on the floor of the tunnel. It was a
+            turning point in his career, but he did not know it. He put the <MagicItem type="ring"
+                origin="sauron" use="invisible, evil," name="theOne">ring</MagicItem> in his pocket
+            almost without thinking; certainly it did not seem of any particular use at the moment.
+            He did not go much further, but sat down on the <location cave="MistyMts">cold
+                floor</location> and gave himself up to complete miserableness, for a long while.
+                <hobbits love="food">He thought of himself frying bacon and eggs in his own kitchen
+                at home - for he could feel inside that it was high time for some meal or
+                other</hobbits>; but that only made him miserabler.</p>
+        <p n="3">He could not think what to do; nor could he think what had happened; or why he had
+            been left behind; or why, if he had been left behind, the <race orc="goblin"
+                from="MistyMts">goblins</race> had not caught him; or even why his head was so sore.
+            The truth was he had been lying quiet, out of sight and out of mind, in a very dark
+            corner for a long while.</p>
+        <p n="4">After some time he felt for his <object for="smoking">pipe</object>. It was not
+            broken, and that was something. Then he felt for his <object for="pipeWeed"
+                >pouch</object>, and there was some tobacco in it, and that was something more. Then
+            he felt for <object for="fire">matches</object> and he could not find any at all, and
+            that shattered his hopes completely. Just as well for him, as he agreed when he came to
+            his senses. Goodness knows what the striking of <object for="fire">matches</object> and
+            the smell of <object for="smoking" altName="pipeWeed">tobacco</object> would have
+            brought on him out of <location cave="MistyMts">dark holes in that horrible
+                place</location>. Still at the moment he felt very crushed. But in slapping all his
+            pockets and feeling all round himself for <object for="fire">matches</object> his hand
+            came on <MagicalItem type="sword" origin="elves" name="sting">the hilt of his little
+                sword - the little dagger</MagicalItem> that he got from the <race troll="hilltroll"
+                >trolls</race>, and that he had quite forgotten; nor do the <race orc="goblin"
+                from="MistyMts">goblins</race> seem to have noticed it, as he wore <MagicalItem
+                type="sword" orgin="elves">it</MagicalItem> inside his <object type="pants"
+                atlName="shortPants">breeches</object>.</p></chapter>
+</novel>
