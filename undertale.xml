@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="Untitled1.rnc" type="application/relax-ng-compact-syntax"?>
+<Script>
+    <title>Undertale</title>
+    <story><subtitle>Story</subtitle> A long time ago, two races ruled peacefully over the Earth:
+        HUMANS and MONSTERS. One day, a terrible war broke out between the two races. After a long
+        battle, the humans were victorious. They sealed the monsters underground with a magical
+        spell. In the year 201X, a small child scales Mt. Ebott. It is said that those who climb the
+        mountain never return. Seeking refuge from the rainy weather, the child enters a cave and
+        discovers an enormous hole. Moving closer to get a better look… the child falls in. Now, our
+        story begins.</story>
+    <subtitle>Instruction </subtitle><commands listOf="commands"><command Confirm="ZorENTER">[Z or ENTER] –
+            Confirm</command>
+        <command Cancel="XorSHIFT">[X or SHIFT] – Cancel</command>
+        <command In-GameMenu="CorControl">[C or CONTROL] – Menu (In-Game)</command>
+        <command Fullscreen="F4">[F4] – Fullscreen</command>
+        <command Quit="HoldEsc">[Hold ESC] – Quit</command></commands>
+    <gameover lose="HP0">When HP is 0, you lose.</gameover>
+    <subtitle>Name the Fallen Human</subtitle> (Name’s Allowed) (Non-Special Names) <dialogue>Is
+        this name correct?</dialogue>
+    <character>AAAAAA</character>
+    <dialogue>Not very creative…?</dialogue>
+    <character>Mercy</character>
+    <dialogue>That’s a little on-the-nose, isn’t it?</dialogue>
+    <character>Murder</character>
+    <dialogue>That’s a little on-the-nose, isn’t it?</dialogue>
+    <character>Drak</character>
+    <dialogue>Is this name correct? {Fights Fsteak}</dialogue>
+    <character>Gigi</character>
+    <dialogue>Is this name correct? {Fights Fsteak}</dialogue>
+    <character>Gugu</character>
+    <dialogue>Is this name correct? {Fights Fsteak}</dialogue>
+    <character>Frisk</character>
+    <dialogue>WARNING: This name will make your life hell. Proceed anyway?</dialogue>
+    <character>Napsta</character> ……….. <dialogue>(They’re powerless to stop you.)</dialogue>
+    <character>Blooky</character> ………… <dialogue>(They’re powerless to stop you.)</dialogue>
+    <character>Papyru</character>
+    <dialogue>I’LL ALLOW IT!!!!</dialogue>
+    <character>Jerry</character>
+    <dialogue>Jerry</dialogue>. <character>Woshua</character>
+    <dialogue>Clean name</dialogue>. <character>Aaron</character>
+    <dialogue>Is this name correct?</dialogue> ;) <character>Shyren</character>
+    <dialogue>…?</dialogue>
+    <character>Gerson</character>
+    <dialogue>Wah ha ha! Why not?</dialogue>
+    <character>Temmie</character>
+    <dialogue>hOI!</dialogue>
+    <character>Alphy</character>
+    <dialogue>Uh…. OK?</dialogue>
+    <character>Metta</character>
+    <dialogue>OOOOH!!! ARE YOU PROMOTING MY BRAND?</dialogue>
+    <character>Mett</character>
+    <dialogue>OOOOH!!! ARE YOU PROMOTING MY BRAND?</dialogue>
+    <character>Catty</character>
+    <dialogue>Bratty! Bratty! That’s MY name!</dialogue>
+    <character>Bratty</character>
+    <dialogue>Like, OK I guess.</dialogue>
+    <character>Bpants</character>
+    <dialogue>You are really scraping the bottom of the barrel.</dialogue>
+    <character>Chara</character>
+    <dialogue>The true name. (Names not allowed)</dialogue>
+    <character>Flowey</character>
+    <dialogue>I already CHOSE that name.</dialogue>
+    <character>Toriel</character>
+    <dialogue>I think you should think of your own name, my child.</dialogue>
+    <character>Sans</character>
+    <dialogue>nope.</dialogue>
+    <character>Undyne</character>
+    <dialogue>Get your OWN name!</dialogue>
+    <character>Alphys</character>
+    <dialogue>D-don’t do that.</dialogue>
+    <character>Asgore</character>
+    <dialogue>You cannot.</dialogue>
+    <character>Asriel</character> …</Script>
