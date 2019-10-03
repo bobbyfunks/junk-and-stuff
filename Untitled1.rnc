@@ -1,0 +1,21 @@
+start = script
+script = element script {title, Story}
+title = element title {text}
+subtitle = element subtitle {text}
+Story = element Story {subtitle+, text*}
+Commands = element Commands {listOf, text}
+listOf = attribute listOf {"commands"}
+command = element command {text, Confirm, Cancel, In-GameMenu, Fullscreen, Quit}
+Confirm = attribute Confirm {"ZorEnter"}
+Cancel = attribute Cancel {"XorSHIFT"}
+In-GameMenu = attribute In-GameMenu {"CorControl"}
+Fullscreen = attribute Fullscreen {"F4"}
+Quit = attribute Quit {"HoldEsc"}
+gameover = element gameover {lose, text}
+lose = attribute lose {"HP0"}
+character = element character {text}
+dialogue = element dialogue {text}
+
+
+
+
